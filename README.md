@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on LOCEM | FCPC
+- 🌱 I’m currently learning Node, React and React Native with Typescript
+
 <!--
 **joaomcode/joaomcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
